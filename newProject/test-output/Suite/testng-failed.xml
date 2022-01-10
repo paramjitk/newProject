@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Firefox(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testcases.IndexTestPage">
+        <methods>
+          <include name="verifyLogo"/>
+          <include name="verifyTitle"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="loadConfig"/>
+        </methods>
+      </class> <!-- testcases.IndexTestPage -->
+    </classes>
+  </test> <!-- Firefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

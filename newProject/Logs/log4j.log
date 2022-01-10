@@ -1,0 +1,376 @@
+2022-01-04 13:25:25 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-04 13:25:25 INFO  log:20 - loginng in
+2022-01-04 13:25:45 INFO  log:20 - Enter username and password
+2022-01-04 13:25:56 INFO  log:20 - login suaccessful
+2022-01-07 23:08:48 INFO  log:20 - usernamepassword
+2022-01-07 23:08:48 INFO  log:20 - shippingpage
+2022-01-07 23:11:06 INFO  log:20 - usernamepassword
+2022-01-07 23:11:06 INFO  log:20 - shippingpage
+2022-01-08 00:00:18 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-08 00:00:18 INFO  log:20 - loginng in
+2022-01-08 00:00:25 INFO  log:20 - Enter username and password
+2022-01-08 00:00:26 INFO  log:20 - login suaccessful
+2022-01-08 00:01:45 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-08 00:01:45 INFO  log:20 - loginng in
+2022-01-08 00:01:51 INFO  log:20 - Enter username and password
+2022-01-08 00:01:53 INFO  log:20 - login suaccessful
+2022-01-08 00:07:54 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-08 00:07:54 INFO  log:20 - loginng in
+2022-01-08 00:07:58 INFO  log:20 - Enter username and password
+2022-01-08 00:07:59 INFO  log:20 - login suaccessful
+2022-01-10 15:46:38 INFO  log:20 - driver launching
+2022-01-10 15:46:45 INFO  log:20 - Chrome driver launched
+2022-01-10 15:49:20 INFO  log:20 - driver launching
+2022-01-10 15:49:23 INFO  log:20 - Chrome driver launched
+2022-01-10 15:49:51 INFO  log:20 - driver launching
+2022-01-10 15:49:54 INFO  log:20 - Chrome driver launched
+2022-01-10 15:50:12 INFO  log:20 - driver launching
+2022-01-10 15:50:15 INFO  log:20 - Chrome driver launched
+2022-01-10 15:50:41 INFO  log:20 - driver launching
+2022-01-10 15:50:44 INFO  log:20 - Chrome driver launched
+2022-01-10 15:52:55 INFO  log:20 - driver launching
+2022-01-10 15:52:58 INFO  log:20 - Chrome driver launched
+2022-01-10 15:54:06 INFO  log:20 - driver launching
+2022-01-10 15:54:09 INFO  log:20 - Chrome driver launched
+2022-01-10 15:54:45 INFO  log:20 - driver launching
+2022-01-10 15:54:47 INFO  log:20 - Chrome driver launched
+2022-01-10 15:55:00 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 15:55:00 INFO  log:20 - loginng in
+2022-01-10 15:55:32 INFO  log:20 - Enter username and password
+2022-01-10 15:55:42 INFO  log:20 - login suaccessful
+2022-01-10 15:55:42 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 15:55:42 INFO  log:20 - loginng in
+2022-01-10 15:58:57 INFO  log:20 - driver launching
+2022-01-10 15:59:00 INFO  log:20 - Chrome driver launched
+2022-01-10 15:59:16 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 15:59:16 INFO  log:20 - loginng in
+2022-01-10 15:59:43 INFO  log:20 - Enter username and password
+2022-01-10 15:59:52 INFO  log:20 - login suaccessful
+2022-01-10 15:59:52 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 15:59:52 INFO  log:20 - loginng in
+2022-01-10 16:00:11 INFO  log:20 - Enter username and password
+2022-01-10 16:00:16 INFO  log:20 - login suaccessful
+2022-01-10 16:01:14 INFO  log:20 - driver launching
+2022-01-10 16:01:17 INFO  log:20 - Chrome driver launched
+2022-01-10 16:01:32 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 16:01:32 INFO  log:20 - loginng in
+2022-01-10 16:02:00 INFO  log:20 - Enter username and password
+2022-01-10 16:02:16 INFO  log:20 - login suaccessful
+2022-01-10 16:02:16 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 16:02:16 INFO  log:20 - loginng in
+2022-01-10 16:02:30 INFO  log:20 - Enter username and password
+2022-01-10 16:02:40 INFO  log:20 - login suaccessful
+2022-01-10 18:56:59 INFO  log:20 - driver launching
+2022-01-10 18:57:04 INFO  log:20 - Chrome driver launched
+2022-01-10 18:57:18 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 18:57:18 INFO  log:20 - loginng in
+2022-01-10 18:57:41 INFO  log:20 - Enter username and password
+2022-01-10 18:57:47 INFO  log:20 - login suaccessful
+2022-01-10 18:57:47 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 18:57:47 INFO  log:20 - loginng in
+2022-01-10 19:01:05 INFO  log:20 - driver launching
+2022-01-10 19:01:08 INFO  log:20 - Chrome driver launched
+2022-01-10 19:01:21 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:01:21 INFO  log:20 - loginng in
+2022-01-10 19:01:35 INFO  log:20 - Enter username and password
+2022-01-10 19:02:05 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:02:05 INFO  log:20 - loginng in
+2022-01-10 19:04:18 INFO  log:20 - driver launching
+2022-01-10 19:04:20 INFO  log:20 - Chrome driver launched
+2022-01-10 19:04:31 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:04:31 INFO  log:20 - loginng in
+2022-01-10 19:04:41 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:04:41 INFO  log:20 - loginng in
+2022-01-10 19:05:10 INFO  log:20 - driver launching
+2022-01-10 19:05:12 INFO  log:20 - Chrome driver launched
+2022-01-10 19:05:34 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:05:34 INFO  log:20 - loginng in
+2022-01-10 19:06:08 INFO  log:20 - Enter username and password
+2022-01-10 19:06:17 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:06:17 INFO  log:20 - loginng in
+2022-01-10 19:08:26 INFO  log:20 - driver launching
+2022-01-10 19:08:28 INFO  log:20 - Chrome driver launched
+2022-01-10 19:08:43 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:08:43 INFO  log:20 - loginng in
+2022-01-10 19:09:13 INFO  log:20 - Enter username and password
+2022-01-10 19:09:28 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:09:28 INFO  log:20 - loginng in
+2022-01-10 19:12:10 INFO  log:20 - driver launching
+2022-01-10 19:12:12 INFO  log:20 - Chrome driver launched
+2022-01-10 19:12:27 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:12:27 INFO  log:20 - loginng in
+2022-01-10 19:12:52 INFO  log:20 - Enter username and password
+2022-01-10 19:13:08 INFO  log:20 - login suaccessful
+2022-01-10 19:13:08 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:13:08 INFO  log:20 - loginng in
+2022-01-10 19:13:35 INFO  log:20 - Enter username and password
+2022-01-10 19:13:41 INFO  log:20 - login suaccessful
+2022-01-10 19:16:22 INFO  log:20 - driver launching
+2022-01-10 19:16:24 INFO  log:20 - Chrome driver launched
+2022-01-10 19:16:25 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:16:25 INFO  log:20 - loginng in
+2022-01-10 19:16:33 INFO  log:20 - driver launching
+2022-01-10 19:16:35 INFO  log:20 - Chrome driver launched
+2022-01-10 19:16:46 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:16:46 INFO  log:20 - loginng in
+2022-01-10 19:16:48 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:16:48 INFO  log:20 - loginng in
+2022-01-10 19:17:11 INFO  log:20 - Enter username and password
+2022-01-10 19:17:16 INFO  log:20 - Username=null
+2022-01-10 19:17:16 INFO  log:20 - password=null
+2022-01-10 19:17:33 INFO  log:20 - login suaccessful
+2022-01-10 19:17:33 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:17:33 INFO  log:20 - loginng in
+2022-01-10 19:18:01 INFO  log:20 - Enter username and password
+2022-01-10 19:18:06 INFO  log:20 - Username=null
+2022-01-10 19:18:06 INFO  log:20 - password=null
+2022-01-10 19:18:14 INFO  log:20 - login suaccessful
+2022-01-10 19:30:18 INFO  log:20 - driver launching
+2022-01-10 19:30:20 INFO  log:20 - Chrome driver launched
+2022-01-10 19:30:33 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:30:33 INFO  log:20 - loginng in
+2022-01-10 19:30:55 INFO  log:20 - Enter Username and password
+2022-01-10 19:31:00 INFO  log:20 - Username=null
+2022-01-10 19:31:00 INFO  log:20 - password=null
+2022-01-10 19:31:07 INFO  log:20 - login suaccessful
+2022-01-10 19:31:07 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:31:07 INFO  log:20 - loginng in
+2022-01-10 19:31:31 INFO  log:20 - Enter Username and password
+2022-01-10 19:31:36 INFO  log:20 - Username=null
+2022-01-10 19:31:36 INFO  log:20 - password=null
+2022-01-10 19:31:44 INFO  log:20 - login suaccessful
+2022-01-10 19:34:08 INFO  log:20 - driver launching
+2022-01-10 19:34:10 INFO  log:20 - Chrome driver launched
+2022-01-10 19:34:24 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:34:24 INFO  log:20 - loginng in
+2022-01-10 19:34:37 INFO  log:20 - Enter Username and password
+2022-01-10 19:34:52 INFO  log:20 - Username=null
+2022-01-10 19:35:02 INFO  log:20 - password=null
+2022-01-10 19:35:08 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:35:08 INFO  log:20 - loginng in
+2022-01-10 19:35:09 INFO  log:20 - driver launching
+2022-01-10 19:35:11 INFO  log:20 - Chrome driver launched
+2022-01-10 19:35:31 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:35:31 INFO  log:20 - loginng in
+2022-01-10 19:35:56 INFO  log:20 - Enter Username and password
+2022-01-10 19:36:01 INFO  log:20 - Username=null
+2022-01-10 19:36:01 INFO  log:20 - password=null
+2022-01-10 19:36:10 INFO  log:20 - login suaccessful
+2022-01-10 19:36:10 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:36:10 INFO  log:20 - loginng in
+2022-01-10 19:36:40 INFO  log:20 - Enter Username and password
+2022-01-10 19:36:45 INFO  log:20 - Username=null
+2022-01-10 19:36:45 INFO  log:20 - password=null
+2022-01-10 19:36:55 INFO  log:20 - login suaccessful
+2022-01-10 19:37:52 INFO  log:20 - driver launching
+2022-01-10 19:37:54 INFO  log:20 - Chrome driver launched
+2022-01-10 19:38:09 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:38:09 INFO  log:20 - loginng in
+2022-01-10 19:38:33 INFO  log:20 - Enter Username and password
+2022-01-10 19:38:38 INFO  log:20 - Username=null
+2022-01-10 19:38:38 INFO  log:20 - password=null
+2022-01-10 19:38:46 INFO  log:20 - login suaccessful
+2022-01-10 19:38:46 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:38:46 INFO  log:20 - loginng in
+2022-01-10 19:39:09 INFO  log:20 - Enter Username and password
+2022-01-10 19:39:14 INFO  log:20 - Username=null
+2022-01-10 19:39:14 INFO  log:20 - password=null
+2022-01-10 19:39:18 INFO  log:20 - driver launching
+2022-01-10 19:39:20 INFO  log:20 - Chrome driver launched
+2022-01-10 19:39:21 INFO  log:20 - login suaccessful
+2022-01-10 19:39:33 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:39:33 INFO  log:20 - loginng in
+2022-01-10 19:39:44 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:39:44 INFO  log:20 - loginng in
+2022-01-10 19:40:12 INFO  log:20 - driver launching
+2022-01-10 19:40:14 INFO  log:20 - Chrome driver launched
+2022-01-10 19:40:15 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:40:15 INFO  log:20 - loginng in
+2022-01-10 19:40:23 INFO  log:20 - driver launching
+2022-01-10 19:40:25 INFO  log:20 - Chrome driver launched
+2022-01-10 19:40:37 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:40:37 INFO  log:20 - loginng in
+2022-01-10 19:40:38 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:40:38 INFO  log:20 - loginng in
+2022-01-10 19:41:01 INFO  log:20 - Enter Username and password
+2022-01-10 19:41:06 INFO  log:20 - Username=[[ChromeDriver: chrome on WINDOWS (f465ac3e11b83f7b90825889acbaf866)] -> xpath: //input[@name='email']]null
+2022-01-10 19:41:06 INFO  log:20 - password=null
+2022-01-10 19:41:13 INFO  log:20 - login suaccessful
+2022-01-10 19:41:13 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:41:13 INFO  log:20 - loginng in
+2022-01-10 19:41:36 INFO  log:20 - Enter Username and password
+2022-01-10 19:41:41 INFO  log:20 - Username=[[ChromeDriver: chrome on WINDOWS (f465ac3e11b83f7b90825889acbaf866)] -> xpath: //input[@name='email']]null
+2022-01-10 19:41:41 INFO  log:20 - password=null
+2022-01-10 19:41:44 INFO  log:20 - login suaccessful
+2022-01-10 19:46:38 INFO  log:20 - driver launching
+2022-01-10 19:46:40 INFO  log:20 - Chrome driver launched
+2022-01-10 19:46:55 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 19:46:55 INFO  log:20 - loginng in
+2022-01-10 19:47:21 INFO  log:20 - Enter Username and password
+2022-01-10 19:47:26 INFO  log:20 - Username=[[ChromeDriver: chrome on WINDOWS (42343f47d5c794b41ac816db6f6016c0)] -> xpath: //input[@name='email']]admin@xyz.com
+2022-01-10 19:47:26 INFO  log:20 - password=admin@123
+2022-01-10 19:47:27 INFO  log:20 - login suaccessful
+2022-01-10 20:00:06 INFO  log:20 - driver launching
+2022-01-10 20:00:10 INFO  log:20 - Chrome driver launched
+2022-01-10 20:00:30 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 20:00:30 INFO  log:20 - loginng in
+2022-01-10 20:00:38 INFO  log:20 - Enter Username and password
+2022-01-10 20:00:43 INFO  log:20 - Username=[[ChromeDriver: chrome on WINDOWS (b05842336214bea91013333620689236)] -> xpath: //input[@name='email']]admin@xyz.com
+2022-01-10 20:00:44 INFO  log:20 - password=admin@123
+2022-01-10 20:00:51 INFO  log:20 - login suaccessful
+2022-01-10 20:00:51 INFO  log:9 - =====================================verifylogin TEST START=========================================
+2022-01-10 20:00:51 INFO  log:20 - loginng in
+2022-01-10 20:12:11 INFO  log:20 - driver launching
+2022-01-10 20:12:14 INFO  log:20 - Chrome driver launched
+2022-01-10 20:12:54 INFO  log:20 - driver launching
+2022-01-10 20:12:56 INFO  log:20 - Chrome driver launched
+2022-01-10 21:40:35 INFO  log:20 - driver launching
+2022-01-10 21:40:38 INFO  log:20 - Chrome driver launched
+2022-01-10 21:44:07 INFO  log:20 - driver launching
+2022-01-10 21:44:10 INFO  log:20 - Chrome driver launched
+2022-01-10 21:45:24 INFO  log:20 - driver launching
+2022-01-10 21:45:35 INFO  log:20 - driver launching
+2022-01-10 21:45:38 INFO  log:20 - Chrome driver launched
+2022-01-10 21:49:13 INFO  log:20 - driver launching
+2022-01-10 21:49:16 INFO  log:20 - Chrome driver launched
+2022-01-10 21:50:52 INFO  log:20 - driver launching
+2022-01-10 21:50:54 INFO  log:20 - Chrome driver launched
+2022-01-10 21:54:05 INFO  log:20 - driver launching
+2022-01-10 21:54:07 INFO  log:20 - Chrome driver launched
+2022-01-10 23:41:21 INFO  log:20 - driver launching
+2022-01-10 23:41:26 INFO  log:20 - Chrome driver launched
+2022-01-10 23:53:59 INFO  log:20 - driver launching
+2022-01-10 23:54:02 INFO  log:20 - Chrome driver launched
+2022-01-10 23:58:15 INFO  log:20 - driver launching
+2022-01-10 23:58:17 INFO  log:20 - Chrome driver launched
+2022-01-10 23:59:10 INFO  log:20 - driver launching
+2022-01-10 23:59:12 INFO  log:20 - Chrome driver launched
+2022-01-11 00:02:35 INFO  log:20 - driver launching
+2022-01-11 00:02:37 INFO  log:20 - Chrome driver launched
+2022-01-11 00:04:59 INFO  log:20 - driver launchingChrome
+2022-01-11 00:05:02 INFO  log:20 - Chrome driver launched
+2022-01-11 00:06:54 INFO  log:20 - driver launchingChrome
+2022-01-11 00:06:54 INFO  log:20 - Chrome driver=true
+2022-01-11 00:06:57 INFO  log:20 - Chrome driver launched
+2022-01-11 00:10:30 INFO  log:20 - driver launchingChrome
+2022-01-11 00:10:32 INFO  log:20 - Chrome driver launched
+2022-01-11 00:12:02 INFO  log:20 - driver launchingChrome
+2022-01-11 00:12:05 INFO  log:20 - Chrome driver launched
+2022-01-11 00:17:11 INFO  log:20 - driver launchingChrome
+2022-01-11 00:17:14 INFO  log:20 - Chrome driver launched
+2022-01-11 00:19:59 INFO  log:20 - driver launchingChrome
+2022-01-11 00:20:02 INFO  log:20 - Chrome driver launched
+2022-01-11 00:27:08 INFO  log:20 - driver launchingChrome
+2022-01-11 00:27:11 INFO  log:20 - Chrome driver launched
+2022-01-11 00:28:29 INFO  log:20 - driver launchingChrome
+2022-01-11 00:28:32 INFO  log:20 - Chrome driver launched
+2022-01-11 00:28:32 INFO  log:20 - all cookies delete
+2022-01-11 00:28:32 INFO  log:20 - all cookies deleted
+2022-01-11 00:30:11 INFO  log:20 - driver launchingChrome
+2022-01-11 00:30:13 INFO  log:20 - Chrome driver launched
+2022-01-11 00:30:13 INFO  log:20 - all cookies deleted
+2022-01-11 00:31:25 INFO  log:20 - driver launchingChrome
+2022-01-11 00:31:27 INFO  log:20 - Chrome driver launched
+2022-01-11 00:31:27 INFO  log:20 - all cookies deleted
+2022-01-11 00:31:45 INFO  log:20 - driver launchingChrome
+2022-01-11 00:31:47 INFO  log:20 - Chrome driver launched
+2022-01-11 00:31:47 INFO  log:20 - all cookies deleted
+2022-01-11 00:32:08 INFO  log:20 - driver launchingChrome
+2022-01-11 00:32:10 INFO  log:20 - Chrome driver launched
+2022-01-11 00:32:10 INFO  log:20 - all cookies deleted
+2022-01-11 00:33:35 INFO  log:20 - driver launchingchrome
+2022-01-11 00:33:37 INFO  log:20 - Chrome driver launched
+2022-01-11 00:33:37 INFO  log:20 - all cookies deleted
+2022-01-11 00:38:41 INFO  log:20 - prop enter
+2022-01-11 00:38:41 INFO  log:20 - prop=new properties
+2022-01-11 00:38:41 INFO  log:20 - cofig path
+2022-01-11 00:38:41 INFO  log:20 - proploadjava.io.FileInputStream@6f27a732
+2022-01-11 00:38:41 INFO  log:20 - driver launchingChrome
+2022-01-11 00:38:44 INFO  log:20 - Chrome driver launched
+2022-01-11 00:38:44 INFO  log:20 - all cookies deleted
+2022-01-11 00:40:12 INFO  log:20 - driver launchingChrome
+2022-01-11 00:40:15 INFO  log:20 - Chrome driver launched
+2022-01-11 00:40:15 INFO  log:20 - all cookies deleted
+2022-01-11 00:41:28 INFO  log:20 - driver launchingChrome
+2022-01-11 00:41:31 INFO  log:20 - Chrome driver launched
+2022-01-11 00:41:31 INFO  log:20 - all cookies deleted
+2022-01-11 00:42:20 INFO  log:20 - driver launchingChrome
+2022-01-11 00:42:22 INFO  log:20 - Chrome driver launched
+2022-01-11 00:42:22 INFO  log:20 - all cookies deleted
+2022-01-11 00:42:57 INFO  log:20 - driver launchingChrome
+2022-01-11 00:42:59 INFO  log:20 - Chrome driver launched
+2022-01-11 00:42:59 INFO  log:20 - all cookies deleted
+2022-01-11 00:45:01 INFO  log:20 - driver launchingChrome
+2022-01-11 00:45:03 INFO  log:20 - Chrome driver launched
+2022-01-11 00:45:03 INFO  log:20 - all cookies deleted
+2022-01-11 00:52:09 INFO  log:20 - driver launchingChrome
+2022-01-11 00:52:12 INFO  log:20 - Chrome driver launched
+2022-01-11 00:52:12 INFO  log:20 - all cookies deleted
+2022-01-11 00:52:19 INFO  log:20 - My Store
+2022-01-11 00:54:35 INFO  log:20 - driver launchingChrome
+2022-01-11 00:54:38 INFO  log:20 - Chrome driver launched
+2022-01-11 00:54:38 INFO  log:20 - all cookies deleted
+2022-01-11 01:03:55 INFO  log:20 - driver launchingChrome
+2022-01-11 01:03:57 INFO  log:20 - Chrome driver launched
+2022-01-11 01:03:57 INFO  log:20 - all cookies deleted
+2022-01-11 01:04:03 INFO  log:20 - sr=My Store
+2022-01-11 01:06:49 INFO  log:20 - driver launchingChrome
+2022-01-11 01:06:51 INFO  log:20 - Chrome driver launched
+2022-01-11 01:06:51 INFO  log:20 - all cookies deleted
+2022-01-11 01:12:50 INFO  log:20 - driver launchingChrome
+2022-01-11 01:12:52 INFO  log:20 - Chrome driver launched
+2022-01-11 01:12:52 INFO  log:20 - all cookies deleted
+2022-01-11 01:22:36 INFO  log:20 - driver launchingChrome
+2022-01-11 01:22:39 INFO  log:20 - Chrome driver launched
+2022-01-11 01:22:39 INFO  log:20 - all cookies deleted
+2022-01-11 01:22:44 INFO  log:20 - driver launchingChrome
+2022-01-11 01:22:46 INFO  log:20 - Chrome driver launched
+2022-01-11 01:22:46 INFO  log:20 - all cookies deleted
+2022-01-11 01:24:34 INFO  log:20 - driver launchingChrome
+2022-01-11 01:24:36 INFO  log:20 - Chrome driver launched
+2022-01-11 01:24:36 INFO  log:20 - all cookies deleted
+2022-01-11 01:24:42 INFO  log:20 - driver launchingChrome
+2022-01-11 01:24:43 INFO  log:20 - Chrome driver launched
+2022-01-11 01:24:43 INFO  log:20 - all cookies deleted
+2022-01-11 01:24:51 INFO  log:20 - sr=My Store
+2022-01-11 01:24:57 INFO  log:20 - Username=admin@xyz.com
+2022-01-11 01:24:57 INFO  log:20 - password=admin@123
+2022-01-11 01:25:56 INFO  log:20 - driver launchingChrome
+2022-01-11 01:25:58 INFO  log:20 - Chrome driver launched
+2022-01-11 01:25:58 INFO  log:20 - all cookies deleted
+2022-01-11 01:26:04 INFO  log:20 - driver launchingChrome
+2022-01-11 01:26:06 INFO  log:20 - Chrome driver launched
+2022-01-11 01:26:06 INFO  log:20 - all cookies deleted
+2022-01-11 01:26:12 INFO  log:20 - sr=My Store
+2022-01-11 01:26:16 INFO  log:20 - Username=admin@xyz.com
+2022-01-11 01:26:16 INFO  log:20 - password=admin@123
+2022-01-11 01:31:15 INFO  log:20 - driver launchingChrome
+2022-01-11 01:31:18 INFO  log:20 - Chrome driver launched
+2022-01-11 01:31:18 INFO  log:20 - all cookies deleted
+2022-01-11 01:31:24 INFO  log:20 - driver launchingChrome
+2022-01-11 01:31:26 INFO  log:20 - Chrome driver launched
+2022-01-11 01:31:26 INFO  log:20 - all cookies deleted
+2022-01-11 01:31:32 INFO  log:20 - sr=My Store
+2022-01-11 01:31:37 INFO  log:20 - Username=admin@xyz.com
+2022-01-11 01:31:38 INFO  log:20 - password=admin@123
+2022-01-11 01:31:41 INFO  log:20 - driver launchingfirefox
+2022-01-11 01:34:09 INFO  log:20 - driver launching=Chrome
+2022-01-11 01:34:12 INFO  log:20 - Chrome driver launched
+2022-01-11 01:34:12 INFO  log:20 - all cookies deleted
+2022-01-11 01:34:18 INFO  log:20 - driver launching=Chrome
+2022-01-11 01:34:20 INFO  log:20 - Chrome driver launched
+2022-01-11 01:34:20 INFO  log:20 - all cookies deleted
+2022-01-11 01:34:26 INFO  log:20 - sr=My Store
+2022-01-11 01:34:32 INFO  log:20 - Username=admin@xyz.com
+2022-01-11 01:34:32 INFO  log:20 - password=admin@123
+2022-01-11 01:34:37 INFO  log:20 - driver launching=FireFox
+2022-01-11 01:37:14 INFO  log:20 - driver launching=Chrome
+2022-01-11 01:37:17 INFO  log:20 - Chrome driver launched
+2022-01-11 01:37:17 INFO  log:20 - all cookies deleted
+2022-01-11 01:37:24 INFO  log:20 - sr=My Store
+2022-01-11 01:37:24 INFO  log:20 - driver launching=Firefox
+2022-01-11 01:39:37 INFO  log:20 - driver launching=Chrome
+2022-01-11 01:39:40 INFO  log:20 - Chrome driver launched
+2022-01-11 01:39:40 INFO  log:20 - all cookies deleted
+2022-01-11 01:39:47 INFO  log:20 - sr=My Store
+2022-01-11 01:39:47 INFO  log:20 - driver launching=Firefox
